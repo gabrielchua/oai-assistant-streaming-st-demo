@@ -1,6 +1,6 @@
 # OpenAI Assistants API Streaming in Streamlit Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oai-assistant-streaming-demo.streamlit.app/)
     
 ## Setting up
 
